@@ -1,4 +1,4 @@
-# nevermined-app
+# Nevermined
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,147 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-nevermined-app is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://nevermined.app/
+Nevermined is the agentic payments platform that enables registration of AI agents, design of usage‑based plans, and acceptance of payments in fiat and crypto via HTTP‑native (x402), MCP, or A2A access. It provides tools for developers to integrate AI‑driven services with flexible billing and supports both traditional and blockchain‑based transactions, aiming to simplify monetization of AI capabilities for enterprises and developers alike.
+
+**Areas:** Payments · AI · Platform · FinTech · Agentic
+
+## Nevermined on APIs.io
+
+Everything profiled for Nevermined is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nevermined-app/](https://apis.io/providers/nevermined-app/)** — or go straight to one of the APIs or properties below.
+
+### APIs (13)
+
+- [Nevermined Agent Services Catalog API](https://apis.io/apis/nevermined-app/nevermined-app-agent-services-catalog-api/) — The Agent Services Catalog API from Nevermined — 17 operation(s) for agent services catalog.
+- [Nevermined ARD Registry API](https://apis.io/apis/nevermined-app/nevermined-app-ard-registry-api/) — The ARD Registry API from Nevermined — 3 operation(s) for ard registry.
+- [Nevermined Delegation API](https://apis.io/apis/nevermined-app/nevermined-app-delegation-api/) — The Delegation API from Nevermined — 4 operation(s) for delegation.
+- [Nevermined Info API](https://apis.io/apis/nevermined-app/nevermined-app-info-api/) — The Info API from Nevermined — 2 operation(s) for info.
+- [Nevermined OAuth API](https://apis.io/apis/nevermined-app/nevermined-app-oauth-api/) — The OAuth API from Nevermined — 3 operation(s) for oauth.
+- [Nevermined Organizations - Integration API](https://apis.io/apis/nevermined-app/nevermined-app-organizations-integration-api/) — The Organizations - Integration API from Nevermined — 3 operation(s) for organizations - integration.
+- [Nevermined Payment Methods API](https://apis.io/apis/nevermined-app/nevermined-app-payment-methods-api/) — The Payment Methods API from Nevermined — 2 operation(s) for payment methods.
+- [Nevermined Protocol API](https://apis.io/apis/nevermined-app/nevermined-app-protocol-api/) — The Protocol API from Nevermined — 18 operation(s) for protocol.
+- [Nevermined Router API](https://apis.io/apis/nevermined-app/nevermined-app-router-api/) — The Router API from Nevermined — 18 operation(s) for router.
+- [Nevermined Subscription - Agent API](https://apis.io/apis/nevermined-app/nevermined-app-subscription-agent-api/) — The Subscription - Agent API from Nevermined — 7 operation(s) for subscription - agent.
+- [Nevermined Subscription API](https://apis.io/apis/nevermined-app/nevermined-app-subscription-api/) — The Subscription API from Nevermined — 7 operation(s) for subscription.
+- [Nevermined Well Known API](https://apis.io/apis/nevermined-app/nevermined-app-well-known-api/) — The Well-Known API from Nevermined — 8 operation(s) for well-known.
+- [Nevermined X402 API](https://apis.io/apis/nevermined-app/nevermined-app-x402-api/) — The X402 API from Nevermined — 4 operation(s) for x402.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Nevermined App Webhooks](https://apis.io/asyncapis/nevermined-app/nevermined-app-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Nevermined Agentic Access](https://apis.io/agentic-access/nevermined-app/nevermined-app-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [CommerceRouteRequestDto](https://apis.io/schemas/nevermined-app/nevermined-app-commerce-route-request-dto/)
+- [DelegationDetailsDto](https://apis.io/schemas/nevermined-app/nevermined-app-delegation-details-dto/)
+- [OwnerCatalogListingDto](https://apis.io/schemas/nevermined-app/nevermined-app-owner-catalog-listing-dto/)
+- [ProxyRequestDto](https://apis.io/schemas/nevermined-app/nevermined-app-proxy-request-dto/)
+- [QuoteResultDto](https://apis.io/schemas/nevermined-app/nevermined-app-quote-result-dto/)
+- [RouterPaymentRecordDto](https://apis.io/schemas/nevermined-app/nevermined-app-router-payment-record-dto/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Nevermined App Context](https://apis.io/jsonld/nevermined-app/nevermined-app-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Nevermined API Rules](https://apis.io/rules/nevermined-app/nevermined-app-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Nevermined Authentication](https://apis.io/security/nevermined-app/nevermined-app-authentication/)
+- [Nevermined Domain Security](https://apis.io/security/nevermined-app/nevermined-app-domain-security/)
+- [Nevermined Vulnerability Disclosure](https://apis.io/security/nevermined-app/nevermined-app-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Nevermined Plans Pricing](https://apis.io/plans/nevermined-app/nevermined-app-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nevermined.app/)
+- [Documentation](https://docs.nevermined.app/)
+- [Getting started](https://nevermined.ai/docs/integrate/quickstart/typescript)
+- [API reference](https://nevermined.ai/docs/llms.txt)
+- [Security](https://nevermined.app/legal/data-privacy)
+- [Terms of service](https://nevermined.app/legal/terms-and-conditions)
+- [GitHub](https://github.com/nevermined-io)
+
+## API Evangelist rating
+
+**Kin Score 56.1** — strong · rubric 0.28.0 · scored 2026-11-20
+
+| Facet | Score |
+|---|---|
+| Discoverability | 76.8 |
+| Contract quality | 66.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 21.4 |
+| Developer ergonomics | 54.0 |
+| Access clarity | 42.1 |
+
+**Agent readiness 51.9** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.5** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nevermined-app/](https://apis.io/providers/nevermined-app/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Nevermined: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nevermined-app/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
